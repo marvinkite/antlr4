@@ -1,3 +1,3 @@
-module github.com/antlr/antlr4/runtime/Go/antlr
+module github.com/marvinkite/antlr4
 
 go 1.16
